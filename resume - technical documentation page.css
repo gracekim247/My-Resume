@@ -1,0 +1,178 @@
+*{
+    font-family: georgia;
+  }
+   
+  body{ 
+     margin: 0;
+  }
+  
+  #navbar{
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     width: 25%;
+     position: fixed;
+     height: 100%; 
+     overflow: auto;
+     margin-top: -40px;
+     border-right: solid 2px gray;
+  }
+  
+  #grace{
+     list-style-type: none;
+     font-size: 32px;
+     font-weight:bold;
+     width: 25%;
+     margin: 0px;
+     padding:0;
+     margin-top: -40px;
+     padding-top: 20px;
+     padding-bottom: 15px;
+     margin-right: 20px;
+     position: fixed;
+     margin-left: 20px;
+     overflow: auto;
+  }
+  
+  #first_nav{
+     margin-top: 70px;
+  }
+  
+  .nav-link{
+     display: block;
+     font-size: 16px;
+     color: black;
+     text-decoration: none;
+     border-top: solid 1px gray;
+     padding-left: 30px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     padding-right: 15px;
+  }
+  
+  #first-div{
+     border-right: solid 2px gray;
+  }
+  
+  .nav-link:visited{
+     color: black;
+  }
+  
+  .nav-link:hover{
+     color: black;
+  }
+  
+  .nav-link:active{
+     color: black;
+  }
+  
+  #main-doc{
+     font-size: 14px;
+     margin-left: 27%;
+  }
+  
+  #main-doc header{
+     font-size: 17px;
+     font-weight: bold;
+     margin-top: 40px;
+  }
+  
+  #subtitle{
+     font-weight: bold;
+     font-size: 14px;
+     margin-top: 20px;
+  }
+  
+  #first-subtitle{
+     font-weight: bold;
+     font-size: 14px;
+  }
+  
+  p{
+     margin:5px;
+     margin-left: 20px;
+     line-height: 20px;
+  }
+  
+  ul{
+     margin-top: 0;
+     margin-bottom: 0;
+     margin-left: 20px;
+     line-height: 20px;
+  }
+  
+  .indent{
+     margin-left: 55px;
+  }
+  
+  i{
+     font-weight: normal;
+  }
+  
+  #whole{
+     display: flex;
+     flex-direction: row;
+     height: 30%;
+  }
+  
+  .skill{
+     font-weight: bold;
+     font-size: 14px;
+     margin-left: -40px;
+  }
+  
+  #skills ul{
+     width: 50%;
+  
+  }
+  
+  .list{
+     margin-left: -5px;
+  }
+  
+  #skills{
+     margin-bottom: 20px;
+  }
+  
+  
+  @media (prefers-reduced-motion: no-preference){
+     *{
+        scroll-behavior: smooth;
+     }
+  }
+  
+  @media (max-width: 700px) {
+    #navbar{
+     display: flex;
+     flex-direction: column;
+     border-right: none;
+     width: 100%;
+     border-bottom: solid 2px black;
+     position: relative;
+     margin-bottom: 00px;
+     margin-top: -2px;
+     height: 25%;
+    }
+  
+    #first_nav{
+       margin-top:-10px;
+    }
+  
+    #grace{
+        display: block;
+        position:sticky;
+        height: auto;
+        border: none;
+        margin: 10px 0;
+        padding: 10;
+        width: 100%;
+        text-align: center;
+        border-bottom: solid 2px gray;
+     }
+  
+    #main-doc{
+       margin-left: 10px;
+  
+    }
+  }
+  
