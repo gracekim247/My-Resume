@@ -56,7 +56,7 @@
   }
   
   .nav-link:visited{
-     color: pink;
+     color: darkgreen;
   }
   
   .nav-link:hover{
@@ -64,7 +64,7 @@
   }
   
   .nav-link:active{
-     color: pink;
+     color: darkgreen;
   }
   
   #main-doc{
@@ -81,9 +81,7 @@
   a:link {
       color: darkgreen;
   }
-  a:visited {
-   color: green;
-  }
+  
   a:hover {
    color: pink;
 }
