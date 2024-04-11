@@ -25,6 +25,7 @@
      width: 25%;
      margin: 0px;
      padding:0;
+     color: pink;
      margin-top: -40px;
      padding-top: 20px;
      padding-bottom: 15px;
@@ -41,7 +42,7 @@
   .nav-link{
      display: block;
      font-size: 16px;
-     color: black;
+     color: darkgreen;
      text-decoration: none;
      border-top: solid 1px gray;
      padding-left: 30px;
@@ -55,15 +56,15 @@
   }
   
   .nav-link:visited{
-     color: black;
+     color: pink;
   }
   
   .nav-link:hover{
-     color: black;
+     color: pink;
   }
   
   .nav-link:active{
-     color: black;
+     color: pink;
   }
   
   #main-doc{
@@ -77,6 +78,20 @@
      margin-top: 40px;
   }
   
+  a:link {
+      color: darkgreen;
+  }
+  a:visited {
+   color: fuchsia;
+  }
+  a:hover {
+   color: pink;
+}
+ a:active {
+   color: hotpink;
+ }
+
+
   #subtitle{
      font-weight: bold;
      font-size: 14px;
