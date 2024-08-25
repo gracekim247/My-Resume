@@ -4,14 +4,14 @@
 This is a technical documentation page that serves as an interactive version of my resume. The page is designed using HTML and CSS and provides a comprehensive view of my background, skills, and experiences. This project was completed as part of the freeCodeCamp Responsive Web Design Certification course.
 
 ## Content Sections
-### About Me
-### Contact Info
-### Educational Background
-### Projects
-### Certifications
-### Professional Experience
-### Leadership and Community Involvement
-### Skills
+- About Me
+- Contact Info
+- Educational Background
+- Projects
+- Certifications
+- Professional Experience
+- Leadership and Community Involvement
+- Skills
 
 ## Contact
 For any inquiries or feedback, please contact me at:
