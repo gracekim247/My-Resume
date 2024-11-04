@@ -20,4 +20,4 @@ For any inquiries or feedback, please contact me at:
 - GitHub: [github.com/gracekim247](https://github.com/gracekim247)
 
 ## Here's a preview of the project:
-![_Users_gracekim_Desktop_github%20repos_My-Resume_techdocResume html](https://github.com/user-attachments/assets/6e371efb-ff44-49c5-8979-b9b6683ad1a6)
+![127 0 0 1_5501_techdocResume html](https://github.com/user-attachments/assets/a2b1edc7-d879-43a8-a005-bc2107e6a1e1)
