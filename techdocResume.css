@@ -25,7 +25,7 @@
      width: 25%;
      margin: 0px;
      padding:0;
-     color: pink;
+     color: rgb(200, 139, 147);
      margin-top: -40px;
      padding-top: 20px;
      padding-bottom: 15px;
@@ -42,7 +42,7 @@
   .nav-link{
      display: block;
      font-size: 16px;
-     color: darkgreen;
+     color: rgb(24, 79, 24);
      text-decoration: none;
      border-top: solid 1px gray;
      padding-left: 30px;
@@ -56,20 +56,21 @@
   }
   
   .nav-link:visited{
-     color: darkgreen;
+     color: rgb(131, 88, 95);
   }
   
   .nav-link:hover{
-     color: pink;
+     color: rgb(174, 131, 137);
   }
   
   .nav-link:active{
-     color: darkgreen;
+     color: rgb(131, 88, 95);
   }
   
   #main-doc{
      font-size: 14px;
      margin-left: 27%;
+     margin-right: 7%;
   }
   
   #main-doc header{
@@ -79,16 +80,16 @@
   }
   
   a:link {
-      color: darkgreen;
+      color: rgb(131, 88, 95);
   }
   a:visited{
-   color: darkgreen
+   color: rgb(131, 88, 95);
   }
   a:hover {
-   color: pink;
+   color: rgb(174, 131, 137);
 }
  a:active {
-   color: hotpink;
+   color: rgb(131, 88, 95);
  }
 
 
@@ -124,12 +125,6 @@
      font-weight: normal;
   }
   
-  #whole{
-     display: flex;
-     flex-direction: row;
-     height: 30%;
-  }
-  
   .skill{
      font-weight: bold;
      font-size: 14px;
@@ -147,6 +142,19 @@
   
   #skills{
      margin-bottom: 20px;
+  }
+
+  footer{
+   margin: -20px;
+   padding: 30px;
+   padding-bottom: 10px;
+   padding-left: 15px;
+   margin-top: 20px;
+   padding-top: 20px;
+  }
+
+  #line{
+   margin-right: -80px;
   }
   
   
