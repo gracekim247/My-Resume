@@ -16,6 +16,7 @@
      overflow: auto;
      margin-top: -40px;
      border-right: solid 2px gray;
+     height: 100%;
   }
   
   #grace{
